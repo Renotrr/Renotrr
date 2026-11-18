@@ -9,7 +9,7 @@ My background in product design influences how I build: automation should not on
 
 I’m especially interested in operational workflows where reliable data capture, clear state, exception handling, and human oversight matter.
 
-[Portfolio](https://jaytee-automation-engineer.vercel.app/) · [Email](mailto:johnadewole23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/johnadewole/)
+[Portfolio](https://jaytee-automation-engineer.vercel.app/) · [Email](mailto:johnadewole23@gmail.com)
 
 ---
 
