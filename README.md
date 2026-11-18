@@ -22,7 +22,7 @@ A working MVP for handling food orders and package requests through WhatsApp, wi
 
 **Focus:** WhatsApp Cloud API · Webhooks · Supabase · PostgreSQL · Edge Functions
 
-### EVRAYN
+### [EVRAYN](https://jaytee-automation-engineer.vercel.app/work/evrayn)
 **Procurement execution workflow system · Active development**
 
 A system in development to help teams track post-award procurement execution. It is designed to compare supplier commitments with incoming updates, identify delays and missing information, and keep operational exceptions visible for human review.
@@ -35,6 +35,11 @@ A system in development to help teams track post-award procurement execution. It
 Built an invoice reader for an Australian business to capture invoice information in a structured form for downstream processing.
 
 **Focus:** Document workflows · Data extraction · Structured output
+
+### [QueueTop](https://jaytee-automation-engineer.vercel.app/work/queuetop)
+**Live event music-request product design**
+
+A product design case study exploring how listeners, DJs, and artists interact around a live event music queue. It shows the product-design foundation behind my approach to building practical software.
 
 
 ---
