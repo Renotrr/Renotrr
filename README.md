@@ -15,7 +15,7 @@ I’m especially interested in operational workflows where reliable data capture
 
 ## Selected work
 
-### [QuikDrop](https://jaytee-automation-engineer.vercel.app/#selected-work)
+### [QuikDrop](https://jaytee-automation-engineer.vercel.app/work/quickdrop)
 **WhatsApp ordering and delivery coordination**
 
 A working MVP for handling food orders and package requests through WhatsApp, with structured order capture, a Supabase-backed operational flow, an operator dashboard, payment checkpoints, and delivery-status updates. Human operators remain in control of important approvals and exceptions.
