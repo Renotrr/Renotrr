@@ -36,12 +36,6 @@ Built an invoice reader for an Australian business to capture invoice informatio
 
 **Focus:** Document workflows · Data extraction · Structured output
 
-### [Discord GrowthBot](https://github.com/Renotrr/discord-growthbot)
-**Discord community onboarding automation**
-
-A Discord bot that welcomes new members with configurable direct messages, notifies the server owner, supports multiple servers, and provides a password-protected admin dashboard with activity logs.
-
-**Focus:** JavaScript · Node.js · Discord.js · Express
 
 ---
 
